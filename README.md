@@ -1,7 +1,7 @@
 ## Description
 
 This is a Terraform  Project. In this project, we are demonstrating the usage of Terraform to create AWS instances within a VPC.
-and look state file with daynamodb 
+and lock state file with daynamodb 
 ## Usage
 
 - Execute the command `terraform init` to setup the project workspace.
